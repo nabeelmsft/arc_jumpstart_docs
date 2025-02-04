@@ -10,7 +10,7 @@ technologyStack:
   - AKS
   - OpenVINO™
   - AI
-  - AKS EDGE ESSENTIALS
+  - Rancher K3s
   - RTSP
 ---
 
